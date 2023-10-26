@@ -1,0 +1,23 @@
+* { 
+    font-family: arial;
+}
+li {
+    color: blue;
+}
+.textoimportante {
+    color: red;
+}
+#youtube {
+    color: green;
+    font-weight: bold;
+}
+a:link {
+    color:green;
+}
+a:visited{
+    color: red;
+}
+a:hover {
+    background-color : yellow;
+    color: red;
+}
