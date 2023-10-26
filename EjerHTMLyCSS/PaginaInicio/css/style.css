@@ -1,0 +1,38 @@
+
+#nombre {
+    color: black;
+    float: left;
+}
+
+.categorias {
+    color:rebeccapurple;
+    font-weight: bold;;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    list-style: none; /* Quita los marcadores de lista */
+    padding: 0; /* Quita el espacio de relleno predeterminado */
+    text-align: center;
+    font-size: 30px;
+}
+
+#logo {
+    float: left;   
+}
+
+.Parrafo {
+    color: black;
+    text-align: center;
+}
+
+#vertodo {
+    color: red;
+    text-align: center; 
+}
+
+.categorias li {
+    display: inline; /* Organiza los elementos de la lista en línea horizontalmente */
+    margin-right: 50px; /* Agrega un espacio entre los elementos (ajusta según sea necesario) */
+}
+#encabezado {
+    text-align: center;
+}
